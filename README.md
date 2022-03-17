@@ -33,7 +33,7 @@ Domain Joined Show All Users: SharpSpray.exe --action GET_ENABLED_USERS
 
 ### 密码喷射攻击（三种喷射模式）
 
-`SharpSpray.exe --action SPRAY_USERS --spraypassword Aa123456789.`只爆破一个用户
+`SharpSpray.exe --action SPRAY_USERS --spraypassword Aa123456789.`只爆破一个密码
 
 `SharpSpray.exe --action SPRAY_USERS --auto` 此命令会自动爆破域内所有用户的1234qwer!@#$、1qaz@WSX1qaz、QAZwsxEDC这三个高频密码。
 
