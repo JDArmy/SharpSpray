@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>--dc-ip 172.16.178.9 --domain windows.local --username test --password Aa123456789. --action GET_POLICY_USERS --policy windows</StartArguments>
+  </PropertyGroup>
+</Project>

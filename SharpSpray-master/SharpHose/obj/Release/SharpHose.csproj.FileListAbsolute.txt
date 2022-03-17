@@ -1,0 +1,10 @@
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Release\SharpSpray.exe.config
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Release\SharpSpray.exe
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Release\SharpSpray.pdb
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Release\CommandLine.xml
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpHose.csproj.AssemblyReference.cache
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpHose.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpHose.csproj.Fody.CopyLocal.cache
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpHose.csproj.CopyComplete
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpSpray.exe
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Release\SharpSpray.pdb

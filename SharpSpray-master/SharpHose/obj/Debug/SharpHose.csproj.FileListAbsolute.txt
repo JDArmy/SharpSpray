@@ -1,0 +1,10 @@
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Debug\SharpHose.exe.config
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Debug\SharpHose.exe
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Debug\SharpHose.pdb
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\bin\Debug\CommandLine.xml
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.csproj.Fody.CopyLocal.cache
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.csproj.CopyComplete
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.exe
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.pdb
+C:\Users\windows7\Desktop\SharpHose-master\SharpHose\obj\Debug\SharpHose.csproj.AssemblyReference.cache
