@@ -29,7 +29,7 @@ Domain Joined Show All Users: SharpSpray.exe --action GET_ENABLED_USERS
 
 `SharpSpray.exe --action GET_POLICIES`
 
-![image-20220317144358574](/Users/windows7/Documents/README/image-20220317144358574.png)
+![image-20220317144358574](./README/image-20220317144358574.png)
 
 ### 密码喷射攻击（三种喷射模式）
 
@@ -39,7 +39,7 @@ Domain Joined Show All Users: SharpSpray.exe --action GET_ENABLED_USERS
 
 `SharpSpray.exe --action SPRAY_USERS --passfile c:\test.txt`爆破一个密码本
 
-![image-20220317144519539](/Users/windows7/Documents/README/image-20220317144519539.png)
+![image-20220317144519539](./README/image-20220317144519539.png)
 
 ### 域外对域控进行密码喷射攻击
 
