@@ -45,3 +45,7 @@ Domain Joined Show All Users: SharpSpray.exe --action GET_ENABLED_USERS
 
 `SharpSpray.exe  --dc-ip 172.16.178.9 --domain windows.local --username test --password Aa123456789. --action SPRAY_USERS --spraypassword Aa123456789.`
 
+## TODO
+
+* 域外的用户名爆破
+* 域内信息收集
